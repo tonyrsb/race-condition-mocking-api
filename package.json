@@ -1,5 +1,5 @@
 {
-  "name": "mocking-api",
+  "name": "race-condition-mocking-api",
   "version": "1.0.0",
   "description": "Race Condition Mocking API",
   "main": "app.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com-tonyrsb:tonyrsb/mocking-api.git"
+    "url": "git@github.com-tonyrsb:tonyrsb/race-condition-mocking-api.git"
   },
   "license": "ISC",
   "dependencies": {
